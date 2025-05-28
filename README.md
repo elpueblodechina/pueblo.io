@@ -1,1 +1,1 @@
-# pueblo.io
+# pueblo
